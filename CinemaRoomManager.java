@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cinema {
+public class CinemaRoomManager {
     static int row,seat,tprice,rows,seats,key,total_seats,hrows,tc = 0,ec = 0,count = 0;
     static final int price = 10;
     static final int lowprice = 8;
